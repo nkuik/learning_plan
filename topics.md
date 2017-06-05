@@ -17,6 +17,10 @@ After learning Python and OOP more thoroughly, this is one of the most beneficia
 areas for me to learn more about, since it is related to essentially every business
 that is creating software.
 
+## Unix
+It's always good to know more about the software that you rely heavily on for
+pretty much everything.
+
 ## Data Structures
 Since they are central to programming, there's always more that I can learn about
 data structures. I also really don't know that much about things like trees and

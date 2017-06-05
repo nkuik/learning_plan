@@ -1,10 +1,12 @@
 # Learning Plan
 Filling in the gaps after moving to software development from an unrelated
-field 💪
+field 💪. Priority number one is figuring out where I'd like to go and then
+figuring out what I need to focus on to get there.
 
 ## Sources of Inspiration
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 ## Plan Organization
 Nothing complicated. Top level is the core competencies and topics that I'd like
