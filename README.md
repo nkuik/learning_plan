@@ -4,7 +4,9 @@ field 💪. Priority number one is figuring out where I'd like to go and then
 figuring out what I need to focus on to get there.
 
 ## Plan
-- Go through one python koan daily
+Python:
+    - Go through one python koan daily
+    - At least one chapter from python book daily
 - Do one algorithm daily
 - Complete two Sublime Tutor lessons daily
 
@@ -12,9 +14,11 @@ figuring out what I need to focus on to get there.
 Easy Wins:
 - Text Editor Stuff
 - Version Control
+
 Middle Challenges:
 - Learn specifics of python
 - OOP
+
 Bit further out:
 - Systems design
 - Algorithms
