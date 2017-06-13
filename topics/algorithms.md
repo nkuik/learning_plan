@@ -13,3 +13,6 @@ Google interview plan
 
 ## Semi-structured Learning
 * [Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
+## Other Resources
+* [Anki flashcards] from the coding challenge
