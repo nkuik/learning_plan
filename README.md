@@ -8,7 +8,7 @@ Python:
     - Go through one python koan daily
     - At least one chapter from python book daily
 - Do one algorithm daily
-- Complete two Sublime Tutor lessons daily
+- Complete one Sublime Tutor chapter daily
 
 ## Current Priorities
 Easy Wins:
