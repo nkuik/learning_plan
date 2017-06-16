@@ -13,3 +13,4 @@ Learn more about the language that I use pretty much everyday 🙂
 
 ## Other Resources
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+* Enki (iPhone app)
