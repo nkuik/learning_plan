@@ -16,3 +16,4 @@ Google interview plan
 
 ## Other Resources
 * [Anki flashcards] from the coding challenge
+* Interview Cake weekly question
