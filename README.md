@@ -12,6 +12,10 @@ Python:
 
 ## Current Priorities
 Easy Wins:
+- General productivity
+    + Staying focused
+    + Avoiding distractions
+    + Environment set up and workflow
 - Text Editor Stuff
 - Version Control
 
