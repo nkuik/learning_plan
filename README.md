@@ -11,6 +11,9 @@ Python:
 - Complete one Sublime Tutor chapter daily
 
 ## Current Priorities
+
+Rubber duck! 🐥
+
 Easy Wins:
 - General productivity
     + Staying focused
