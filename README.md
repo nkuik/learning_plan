@@ -1,4 +1,4 @@
-# Learning Plan
+\# Learning Plan
 Filling in the gaps after moving to software development from an unrelated
 field 💪. Priority number one is figuring out where I'd like to go and then
 figuring out what I need to focus on to get there.
@@ -29,6 +29,10 @@ Middle Challenges:
 Bit further out:
 - Systems design
 - Algorithms
+
+## Life Things
+- Learn German
+- Meditation
 
 ## Sources of Inspiration
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)

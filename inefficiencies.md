@@ -4,7 +4,9 @@ Areas I need to reduce to increase time, accuracy, and efficiency. Probably a pr
 ## Environment
 ### Text Editor
 - Have switched back to Sublime. Will be looking into Jupyter.
-    + Completing problems in the interactive coding challenge repo, which uses jupyter. Haven't done much with iPython, but interested
+    + Completing problems in the interactive coding challenge repo, which uses
+    jupyter. Haven't done much with iPython, but interested
+    + Will be starting to learn Vim
 
 ### Context Switching
 - Multiple desktops, windows, programs open.
