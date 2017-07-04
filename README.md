@@ -5,14 +5,17 @@ figuring out what I need to focus on to get there.
 
 ## Plan
 Python:
-    - Go through one python koan daily
-    - At least one chapter from python book daily
+- Go through one python koan daily
+- At least one chapter from python book daily
+Algorithms:
 - Do one algorithm daily
+Text Editor:
 - Complete one Sublime Tutor chapter daily
 
 ## Current Priorities
 
 Rubber duck! 🐥
+- explaining things
 
 Easy Wins:
 - General productivity
