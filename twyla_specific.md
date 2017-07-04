@@ -1,6 +1,6 @@
 # Twyla
 Plenty of things that I'd like to learn for the things I'm working on for Twyla.
-Here are the priorities
+Here are the priorities:
 
 ## Topics/Things
 * Get to know the code base
