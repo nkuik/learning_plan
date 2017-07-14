@@ -9,13 +9,12 @@ Python:
 - At least one chapter from python book daily
 Algorithms:
 - Do one algorithm daily
-Text Editor:
-- Complete one Sublime Tutor chapter daily
 
 ## Current Priorities
 
-Rubber duck! 🐥
-- explaining things
+* Rubber duck! 🐥
+    - explaining things
+* [Coursera ML course](https://www.coursera.org/learn/machine-learning)
 
 Easy Wins:
 - General productivity
