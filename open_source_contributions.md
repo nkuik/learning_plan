@@ -8,3 +8,6 @@ when it comes to things like OOP and systems design.
 * [Mastodon](https://github.com/tootsuite/mastodon)
     - 600+ open issues, including a "fit for beginners" tag
 * [Hound](https://github.com/houndci/hound)
+
+## Resources
+* [Dev.to blog post](https://dev.to/jess/open-source-resources-for-beginners?utm_content=bufferce45b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
