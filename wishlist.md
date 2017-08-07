@@ -5,7 +5,7 @@ This is actually the most important thing, because it can be difficult to dedica
 
 ## Small
 - Books
-    + Will add some
+    + [Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_6?s=books-intl-de&ie=UTF8&qid=1500539794&sr=1-6&keywords=refactoring) ✅
 - Udemy courses
     +  [Python OOP](https://www.udemy.com/python-beyond-the-basics-object-oriented-programming)
 
@@ -20,7 +20,7 @@ This is actually the most important thing, because it can be difficult to dedica
 - [Recurse Programming Retreat](https://www.recurse.com/)
     + 6 to 12 week for improving coding skills and focusing on personal projects
 - Udacity Nanodegree
-    + Applied for the [artificial intelligence program](https://www.udacity.com/ai)
+    + Applied for the [artificial intelligence program](https://www.udacity.com/ai) ✅
         * Costs around €1350
         * Willing to personally contribute
     + If I don't get accepted to AI, there are also data analyst and machine learning programs

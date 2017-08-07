@@ -22,6 +22,7 @@ Easy Wins:
     + Avoiding distractions
     + Environment set up and workflow
 - Text Editor Stuff
+    + Practicing Pycharm on the weekends
 - Version Control
 
 Middle Challenges:
@@ -35,6 +36,7 @@ Bit further out:
 ## Life Things
 - Learn German
 - Meditation
+- Yoga
 
 ## Sources of Inspiration
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
