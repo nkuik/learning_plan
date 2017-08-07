@@ -8,6 +8,8 @@ This is actually the most important thing, because it can be difficult to dedica
     + [Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_6?s=books-intl-de&ie=UTF8&qid=1500539794&sr=1-6&keywords=refactoring) ✅
 - Udemy courses
     +  [Python OOP](https://www.udemy.com/python-beyond-the-basics-object-oriented-programming)
+- Software
+    + Pycharm license
 
 ## Medium
 - [Treehouse](https://teamtreehouse.com/) Subscription
