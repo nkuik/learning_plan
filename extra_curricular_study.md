@@ -26,7 +26,7 @@
 ## Sites
 - Probability & Statistics
     + CS 109
-    + (Stanford Probability)[http://web.stanford.edu/class/cs109/]
+    + [Stanford Probability](http://web.stanford.edu/class/cs109/)
 - Computer Stuff
     + CS 107, 110
     + Compilers
@@ -37,5 +37,5 @@
     + CS 161
     + Complexity (Space and time)
 - Computability
-    + (CS103)[http://web.stanford.edu/class/cs103/]
+    + [CS103](http://web.stanford.edu/class/cs103/)
     + Course reader is the book Jesus shared
