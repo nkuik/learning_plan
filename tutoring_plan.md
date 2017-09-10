@@ -3,6 +3,8 @@
 ## Algorithms
 * Books
     - The Algorithm Design Manual
+    - Grokking Algorithms
+    - Intro to Algorithms
 * Courses
     - [Stanford CS161](http://web.stanford.edu/class/cs161/)
     - [Coursera Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
@@ -20,7 +22,10 @@
 * Courses
     - [Stanford CS109](http://web.stanford.edu/class/cs109/)
 
-## Other Topics
+## Other Topics/Resources
 * Courses
     - [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
     - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+    - [CS Tech Interview](https://www.coursera.org/learn/cs-tech-interview)
+* Resources
+    - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
