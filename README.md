@@ -4,17 +4,15 @@ field 💪. Priority number one is figuring out where I'd like to go and then
 figuring out what I need to focus on to get there.
 
 ## Plan
-Python:
-- Go through one python koan daily
-- At least one chapter from python book daily
-Algorithms:
-- Do one algorithm daily
+Plan has been updated, so that my learning is now directed more by a tutor that I've started working with. Thus, the plan is better contained in the [CS Crash course repo](https://github.com/nkuik/cs-crash-course)
 
 ## Current Priorities
 
 * Rubber duck! 🐥
     - explaining things
-* [Coursera ML course](https://www.coursera.org/learn/machine-learning)
+* Python
+* C#
+    - primarily using [this book](http://csharpindepth.com/)
 
 Easy Wins:
 - General productivity
