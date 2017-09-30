@@ -29,3 +29,9 @@
     - [CS Tech Interview](https://www.coursera.org/learn/cs-tech-interview)
 * Resources
     - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+
+# Week 1
+* First chapters of all the books
+    - All problems for in algorithm book
+    - All problems in the computation book
+    - Reasonable number in the probability book
