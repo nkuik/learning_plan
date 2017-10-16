@@ -30,3 +30,6 @@ This is actually the most important thing, because it can be difficult to dedica
 - Conferences
     + [EuroSciPY](https://www.euroscipy.org/2017/#registration)
         * Geared towards scientific use of python, so not too relevant
+
+- Bradfield Sabbatical Program
+    + [The Website](https://bradfieldcs.com/bsp/)
