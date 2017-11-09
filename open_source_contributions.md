@@ -3,6 +3,12 @@ Another thing I'd like to do is start contributing to open source projects. In
 fact, this might be the best way for me to learn many of these things, especially
 when it comes to things like OOP and systems design.
 
+## Likely Options
+* [Chef](https://github.com/chef/chef)
+    - Configuration management tool
+* [ifme](https://github.com/julianguyen/ifme)
+    - Place for people to share mental health experiences
+
 ## Possibilities
 ### Ruby/Rails
 * [Mastodon](https://github.com/tootsuite/mastodon)
