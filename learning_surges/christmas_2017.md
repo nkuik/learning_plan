@@ -8,6 +8,7 @@
 - ☐ [NLP tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/)
 - ☐ [Intro to NLP](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 - ☐ [Attention and memory in NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+- ☐ [Standford lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 ## ML Coursera
 - ☐ Linear algebra
@@ -18,6 +19,7 @@
 - Sublime 
     + ☐ keyboard shortcut review
     + ☐ git in sublime
+    + ☐ pytest
 - ☐ Start learning Vim keybindings
 
 ## Therapuetic insights for conversation facilitation
