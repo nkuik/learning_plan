@@ -15,7 +15,9 @@
 - ☐ Gradient descent
 
 ## IDEs
-- ☐ Sublime keyboard shortcut review
+- Sublime 
+    + ☐ keyboard shortcut review
+    + ☐ git in sublime
 - ☐ Start learning Vim keybindings
 
 ## Therapuetic insights for conversation facilitation
