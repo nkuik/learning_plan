@@ -20,7 +20,7 @@ Easy Wins:
     + Avoiding distractions
     + Environment set up and workflow
 - Text Editor Stuff
-    + Practicing Pycharm on the weekends
+    + Practicing vim/emacs on the weekends
 - Version Control
 
 Middle Challenges:
@@ -40,6 +40,7 @@ Bit further out:
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+- [Problem-Solving for the CS Technical Interview](https://web.stanford.edu/class/cs9/)
 
 ## Plan Organization
 Nothing complicated. Top level is the core competencies and topics that I'd like
