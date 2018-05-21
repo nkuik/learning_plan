@@ -9,10 +9,9 @@ This is actually the most important thing, because it can be difficult to dedica
 - Udemy courses
     +  [Python OOP](https://www.udemy.com/python-beyond-the-basics-object-oriented-programming)
 - Software
-    + Pycharm license
+    + Sublime license
 
 ## Medium
-- [Treehouse](https://teamtreehouse.com/) Subscription
 - Udemy courses
     + [Deep learning](https://www.udemy.com/data-science-deep-learning-in-python/)
     + [Deep reinforcement learning](https://www.udemy.com/deep-reinforcement-learning-in-python/)
@@ -28,8 +27,6 @@ This is actually the most important thing, because it can be difficult to dedica
     + If I don't get accepted to AI, there are also data analyst and machine learning programs
         * These cost €299/month, so incentive to finish quickly
 - Conferences
-    + [EuroSciPY](https://www.euroscipy.org/2017/#registration)
-        * Geared towards scientific use of python, so not too relevant
 
 - Bradfield Sabbatical Program
     + [The Website](https://bradfieldcs.com/bsp/)
