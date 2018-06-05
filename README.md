@@ -1,8 +1,11 @@
 # Learning Plan
+
 Filling in the gaps after moving to software development from social work 💪. Priority number one is figuring out where I'd like to go and then
 figuring out what I need to focus on to get there. 
 
 This relates to my biggest challenge at the moment, which happens to be deciding on [potential path](/professional_path.md) I'd like to take. The most difficult piece of this puzzle is the fork of technical and non-technical work. This doesn't mean I can only do one or the other, but it does seem that moving back into technical work after moving out of it is difficult, and I'm not sure I want to do that yet.
+
+The two most prevalent documents are my [DSB plan](/dsb_plan.md) and my [five year plan](/five_year_plan.md).
 
 ## Workflow
 
