@@ -18,6 +18,7 @@ It includes these skills/competencies:
 - Strategy
 - Monitoring/Understanding
 - Testing
+- [Deep Work](http://www.dansilvestre.com/deep-work-cal-newport/)
 
 ## Why its relevant
 
