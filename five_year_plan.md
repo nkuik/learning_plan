@@ -6,7 +6,7 @@ At the risk of seeming entirely too much Type-A, I've put together a loose timel
 
 * April: Begin to meet requirements for Danish permanent residence
 * September 1: Complete application for Georgia Tech's [Online Master of Science in Computer Science](http://www.omscs.gatech.edu/)
-* November: _Maybe_ take the PD3 (Danish language)
+* November: _Maybe_ take the [PD3](https://www.studieskolen.dk/en/Dansk-for-udlaendinge/exams/danish-3-exam) (Danish language test)
 * November: Complete Modul 5 of Danish language instruction
 * December: Hear about application to Masters
     - Begin meeting requirements if not accepted
