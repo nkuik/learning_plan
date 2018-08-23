@@ -22,7 +22,7 @@ It includes these skills/competencies:
 
 ## Why it's relevant
 
-It is clear that DSB needs to make many changes if it is to reach its Digitalisation goals. A huge part of this is a change in how DSB develops software. If DSB wants to move "from fragile to agile", planning, development, testing, and deployment need to be move more towards a [microservice archicture](https://www.martinfowler.com/articles/microservices.html) that favors distributed teams and limits bottlenecks.
+It is clear that DSB needs to make many changes if it is to reach its Digitalisation goals. A huge part of this is a change in how DSB develops software. If DSB wants to move "from fragile to agile", planning, development, testing, and deployment need to be move more towards a [microservice architecture](https://www.martinfowler.com/articles/microservices.html) that favors distributed teams and limits bottlenecks.
 
 The movement towards microservice software design--and containerized development--requires a diverse group of people with a diverse set of skills. It is clear that simply adding in a new technology [does not automatically change an organization's culture](https://queue.acm.org/detail.cfm?id=3185224), but a concerted effort to change attitudes, coupled with both technologies that foster faster development and individuals that understand the importance of communication, can lead to real change.
 
