@@ -7,7 +7,7 @@ Purpose: to create an intentional plan to develop professionally
 ## Current Priorities
 
 - Learning TypeScript
-  - "Everyday Typescript" and "Advanced Typescript" from [executeprogram.com](https://www.executeprogram.com/course
+  - "Everyday Typescript" and "Advanced Typescript" from [executeprogram.com](https://www.executeprogram.com/course)
 - Serverless
 - Event-driven architecture
   - https://www.amazon.de/-/en/gp/product/1492086894/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1
