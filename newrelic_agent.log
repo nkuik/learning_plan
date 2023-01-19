@@ -1,0 +1,3 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"MacBook-Pro-29.corp.lego.com","pid":67196,"time":"2023-01-13T08:29:09.350Z","msg":"Using New Relic for Node.js. Agent version: 8.5.0; Node version: v18.12.1."}
+{"v":0,"level":40,"name":"newrelic","hostname":"MacBook-Pro-29.corp.lego.com","pid":67196,"time":"2023-01-13T08:29:09.364Z","msg":"New Relic for Node.js 8.5.0 has not been tested on Node.js v18.12.1. Please update the agent or downgrade your version of Node.js"}
+{"v":0,"level":30,"name":"newrelic","hostname":"MacBook-Pro-29.corp.lego.com","pid":67196,"time":"2023-01-13T08:29:09.364Z","msg":"Module disabled in configuration. Not starting."}
