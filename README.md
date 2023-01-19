@@ -28,6 +28,8 @@ Purpose: to create an intentional plan to develop professionally
 - "Everyday Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
 - "Advanced Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
 
+4. "Comfortable" in business-related parts of codebase
+
 ## How to get there
 
 - Scheduling learning times in the calendar every week
