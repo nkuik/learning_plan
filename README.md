@@ -16,17 +16,20 @@ Purpose: to create an intentional plan to develop professionally
 
 ## Goals
 
-1. Better mastery of serverless and event-driven architecture
+For all these goals, answer: how will I know I am moving towards completion of the goal?
 
-- Learn the "Core Serverless" principles
-- [Software Architecture: The Hard Parts](https://www.amazon.de/-/en/gp/product/1492086894/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)
+1. Improved mastery of serverless and event-driven architecture
 
-2. Improve presentation skills, especially regarding technical content
-3. Better master of TypeScript
+- [ ] Currently reading: [Designing Data-Intensive Applications](https://www.amazon.de/-/en/Martin-Kleppmann/dp/1449373321/ref=sr_1_1?keywords=datenintensive+anwendungen+gestalten&qid=1673550491&sprefix=designing+d%2Caps%2C101&sr=8-1)
+- [ ] Learn the "Core Serverless" principles
+- [ ] [Software Architecture: The Hard Parts](https://www.amazon.de/-/en/gp/product/1492086894/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)
 
-- Currently reading: [Effective Typescript](https://effectivetypescript.com/)
-- "Everyday Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
-- "Advanced Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
+2. Improved presentation skills, especially regarding technical content
+3. Improved mastery of TypeScript
+
+- [x] Currently reading: [Effective Typescript](https://effectivetypescript.com/)
+- [ ] "Everyday Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
+- [ ] "Advanced Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
 
 4. Increased comfort in business-related parts of codebase
 5. Increased efficiency in implementing changes/features
