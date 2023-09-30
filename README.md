@@ -21,7 +21,7 @@ For all these goals, answer: how will I know I am moving towards completion of t
 ### 1. Improved mastery of serverless and event-driven architecture
 
 - [ ] Currently reading: [Designing Data-Intensive Applications](https://www.amazon.de/-/en/Martin-Kleppmann/dp/1449373321/ref=sr_1_1?keywords=datenintensive+anwendungen+gestalten&qid=1673550491&sprefix=designing+d%2Caps%2C101&sr=8-1)
-- [ ] Currently reading: Implementing DDD, CQRS, and Event Sourcing
+- [x] Implementing DDD, CQRS, and Event Sourcing
 - [ ] Learn the "Core Serverless" principles
 - [ ] [Software Architecture: The Hard Parts](https://www.amazon.de/-/en/gp/product/1492086894/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)
 
@@ -39,7 +39,7 @@ Measurement(s):
 
 - [x] Currently reading: [Effective Typescript](https://effectivetypescript.com/)
 - [x] "Everyday Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
-- [ ] "Advanced Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
+- [x] "Advanced Typescript" ([executeprogram.com](https://www.executeprogram.com/course))
 
 Measurement(s):
 
